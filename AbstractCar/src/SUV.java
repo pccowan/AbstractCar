@@ -1,5 +1,5 @@
 
-public class SUV {
+public class SUV extends Vehicle {
 	public SUV()
 	{
 		System.out.println("An SUV has been selected.");
